@@ -1,4 +1,5 @@
-const mongoose = require("mongoose");
+const mongoose = require("mongoose");  
+//test
 
 // Se connecter à la base de données
 const mongoDB="mongodb://127.0.0.1:27017/Ecommerce";
